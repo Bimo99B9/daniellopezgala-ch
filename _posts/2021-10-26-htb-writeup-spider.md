@@ -9,10 +9,11 @@ header:
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
+  - Writeups
+tags:
   - hackthebox
   - hard
   - infosec
-tags:  
   - SSTI
   - Cookie hijacking
   - SQL injection

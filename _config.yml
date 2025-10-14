@@ -11,18 +11,18 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes@4.27.1"
+remote_theme             : "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "Bimo99B9"
+title                    : "Daniel López Gala"
 title_separator          : "-"
-name                     : "Bimo99B9"
+name                     : "Daniel López Gala"
 description              : "Posts about security, CTFs and sysadmin"
-url                      : "https://Bimo99B9.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://daniellopezgala.ch" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Bimo99B9/Bimo99B9.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Bimo99B9/daniellopezgala-ch" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -101,8 +101,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bimo99B9"
-  avatar           : "/assets/images/avatar.png"
+  name             : "Daniel López Gala"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "Cybersecurity at EPFL and ETHZ.<br> CTFs player. Adversarial ML."
   location         : "Switzerland"
   email            : "daniel.lopezgala@epfl.ch"

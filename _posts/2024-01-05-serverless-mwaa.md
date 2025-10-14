@@ -9,9 +9,9 @@ header:
   teaser_home_page: true
   icon: /assets/images/data-eng-serverless-mwaa/aws-icon.png
 categories:
-  - data engineering
+  - Data Engineering
+tags:
   - cloud computing
-tags:  
   - AWS
   - MWAA
   - Apache Airflow

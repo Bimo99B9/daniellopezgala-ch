@@ -9,9 +9,9 @@ header:
   teaser_home_page: true
   icon: /assets/images/script.png
 categories:
-  - scripts
+  - Scripts
+tags:
   - system configuration
-tags:  
   - configuration
   - tools
   - setup

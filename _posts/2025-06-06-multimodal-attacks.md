@@ -9,9 +9,9 @@ header:
   teaser_home_page: true
   icon: /assets/images/ai-security-icon.png
 categories:
-  - ai-security
+  - AI Security
+tags:
   - machine-learning
-tags:  
   - adversarial-attacks
   - vlm
   - llava

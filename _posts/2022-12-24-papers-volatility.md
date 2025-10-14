@@ -9,8 +9,8 @@ header:
   teaser_home_page: true
   icon: /assets/images/forensic.png
 categories:
-  - forensic
-tags:  
+  - Forensic
+tags:
   - forensic
   - volatility
   - sockets

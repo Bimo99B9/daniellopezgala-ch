@@ -9,9 +9,10 @@ header:
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
+  - Writeups
+tags:
   - hackthebox
   - infosec
-tags:  
   - osticket
   - mysql
   - mattermost

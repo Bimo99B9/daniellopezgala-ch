@@ -9,11 +9,12 @@ header:
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
+  - Writeups
+tags:
   - hackthebox
   - medium
   - windows
   - active-directory
-tags:  
   - Kerberos
   - Bloodhound
   - Active Directory

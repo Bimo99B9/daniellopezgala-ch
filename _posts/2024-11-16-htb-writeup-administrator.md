@@ -9,8 +9,9 @@ header:
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
-  - HackTheBox
-tags:  
+  - Writeups
+tags:
+  - hackthebox
   - Active Directory
   - Windows Server
   - Privilege Escalation

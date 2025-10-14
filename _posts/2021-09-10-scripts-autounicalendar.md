@@ -9,9 +9,9 @@ header:
   teaser_home_page: true
   icon: /assets/images/script.png
 categories:
-  - scripts
+  - Scripts
+tags:
   - python
-tags:  
   - uniovi
   - productivity
   - github
